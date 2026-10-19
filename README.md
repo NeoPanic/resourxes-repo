@@ -195,6 +195,8 @@
 | [Trello](https://trello.com/)                                                                     | A visual tool for organizing tasks and projects using boards, lists, and cards. |
 | [Slack](https://slack.com/)                                                                       | A messaging platform for team collaboration and communication, with channels and integrations. |
 | [Zapier](https://zapier.com/)                                                                     | A platform to automate workflows between different apps and services without coding. |
+| [Glim](https://github.com/NeoPanic/Glim) | Free, MIT-licensed macOS file viewer for Markdown, source code, PDF/Office previews and data files, with basic UTF-8 editing. |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
